@@ -4,18 +4,18 @@
 
 ## Modules: A First-Pass Solution and Writing Better Solutions
 
-*Note: this module project repository is for Module 3 (A First-Pass Solution) and Module 4 (Writing Better Solutions) of the Algorithms Sprint.*
+_Note: this module project repository is for Module 3 (A First-Pass Solution) and Module 4 (Writing Better Solutions) of the Algorithms Sprint._
 
 ## Objectives for A First-Pass Solution
 
-* Effectively ask for help by giving the expected vs. experienced behavior, explaining what specific actions they've taken so far, and providing all relevant information and code
-* Interpret a problem, specification, or diagram and construct a plan for implementing a solution in code
-* Implement a first-pass solution after selecting from a naïve, brute-force, or greedy approach
+- Effectively ask for help by giving the expected vs. experienced behavior, explaining what specific actions they've taken so far, and providing all relevant information and code
+- Interpret a problem, specification, or diagram and construct a plan for implementing a solution in code
+- Implement a first-pass solution after selecting from a naïve, brute-force, or greedy approach
 
 ## Objectives for Writing Better Solutions
 
-* Evaluate a first-pass solution and reflect on its validity to decide if the solution needs revision
-* Apply techniques such as memoization or heuristics to improve an existing first-pass solution
+- Evaluate a first-pass solution and reflect on its validity to decide if the solution needs revision
+- Apply techniques such as memoization or heuristics to improve an existing first-pass solution
 
 ## Introduction
 
@@ -24,27 +24,29 @@ This module project requires you to practice each of the learning objectives by 
 These types of algorithmic challenges simulate many of the problems that you might receive during a job interview. They require you to practice using all of your data structures knowledge, problem-solving capabilities, and algorithmic practice that you've done thus far. The more practice you get at applying these skills, the more likely you are to do well under pressure in a job interview setting. Additionally, this practice deepens your understanding through application.
 
 ## Instructions and/or Completion Requirements
+
 ### A First-Pass Solution
 
 Each directory contains a separate problem that you must solve. Inside each directory, you'll find instructions for that problem, a test file, and an empty skeleton file.
 
 There isn't an official prescribed order for tackling the problems, though a subjective ranking of the given problems from easiest to hardest might go something like this:
 
- 1. `single_number`
- 2. `moving_zeroes`
- 3. `product_of_all_other_numbers`
- 4. `sliding_window_max`
- 5. `eating_cookies`
+[x] 1. `single_number`
+
+2.  `moving_zeroes`
+3.  `product_of_all_other_numbers`
+4.  `sliding_window_max`
+5.  `eating_cookies`
 
 For each problem, `cd` into the directory, read the instructions for the challenge, implement your solution in the skeleton file, then test it using the provided test file.
 
 The later problems get progressively more difficult, especially when it comes to deriving a more performant solution. Don't feel bad if you aren't able to figure them out within the project's timeframe. Again, always remember that so long as you put in an earnest effort into attempting to solve these problems, you're learning and getting better. Getting the 'right answer' is just the proverbial cherry on top of the sundae.
 
-*Note: Remember, you need to get a first-pass solution for each of the problems for the Module 3 Project. For the Module 4 Project, you will work on improving those solutions and optimizing them for performance.*
+_Note: Remember, you need to get a first-pass solution for each of the problems for the Module 3 Project. For the Module 4 Project, you will work on improving those solutions and optimizing them for performance._
 
 ### Writing Better Solutions
 
-For the Module 4 project, your main objective is to work on improving at least two of your first-pass solutions from Module 3. In particular, for one of your first-pass solutions, assess the runtime and space complexity of the implementation, think about why it's inefficient and how it could be improved, then implement the improved solution. 
+For the Module 4 project, your main objective is to work on improving at least two of your first-pass solutions from Module 3. In particular, for one of your first-pass solutions, assess the runtime and space complexity of the implementation, think about why it's inefficient and how it could be improved, then implement the improved solution.
 
 ## Resources
 
